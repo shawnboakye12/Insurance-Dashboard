@@ -18,10 +18,7 @@ An executive Power BI dashboard designed to help insurance providers monitor pol
 - Tools & Technologies
 - Dataset
 - Design Approach
-- Challenges
 - Potential Business Insights
-- Future Enhancements
-- Repository Contents
 - 
 # 📌 Project Overview
 
