@@ -19,7 +19,7 @@ An executive Power BI dashboard designed to help insurance providers monitor pol
 - Dataset
 - Design Approach
 - Potential Business Insights
-- 
+  
 # 📌 Project Overview
 
 Insurance organizations rely on timely and accurate reporting to monitor policy performance, understand claim trends, and identify areas of increased financial risk. This dashboard was designed to provide business stakeholders with a centralized view of key insurance metrics, enabling them to evaluate customer behavior, policy performance, and claim activity from a single reporting solution.
